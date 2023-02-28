@@ -1,0 +1,3 @@
+[submodule "localrepo_2remote"]
+	path = localrepo_2remote
+	url = https://github.com/DheenaPatrick/localrepo_2remote.git
